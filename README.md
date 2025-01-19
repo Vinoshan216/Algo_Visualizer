@@ -16,21 +16,6 @@ This project is a Python-based algorithm visualizer using Tkinter and Matplotlib
 - Tkinter
 - NumPy
 
-## How to Run
-1. Clone the repository:
-   ```bash
-   git clone <repository_url>
-   cd <repository_folder>
-   ```
-2. Install dependencies:
-   ```bash
-   pip install matplotlib numpy
-   ```
-3. Run the visualizer:
-   ```bash
-   python main.py
-   ```
-
 ## Code Overview
 - **`main.py`**: Contains the sorting algorithm implementations and visualization logic.
   - `insertion_sort(arr, length)`
